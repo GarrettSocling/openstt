@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/MycroftAI/openstt.png?label=ready&title=Ready)](https://waffle.io/MycroftAI/openstt)
 # OpenSTT
 A Project aiming to create an open source speech-to-text model. http://openstt.org
 
